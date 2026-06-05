@@ -1,0 +1,43 @@
+# Potential Research Gaps
+
+## AI feedback in collaborative VR speaking tasks
+
+**Direct evidence:** 0 papers combine all central components.
+
+**Partial evidence:** 39 papers cover at least one component.
+
+**Missing component:** Few papers combine all components; weakest coverage is component 1.
+
+**Why it matters:** This combination is central to the intended study and weak coverage may provide a defensible research opportunity.
+
+**Opportunity level:** Very High
+
+**Suggested search keywords:** "AI feedback" "collaborative virtual reality" "EFL speaking"
+
+## Collaborative VR for language speaking confidence
+
+**Direct evidence:** 0 papers combine all central components.
+
+**Partial evidence:** 39 papers cover at least one component.
+
+**Missing component:** Few papers combine all components; weakest coverage is component 1.
+
+**Why it matters:** This combination is central to the intended study and weak coverage may provide a defensible research opportunity.
+
+**Opportunity level:** Very High
+
+**Suggested search keywords:** "collaborative VR" "speaking confidence" EFL
+
+## Motivation and anxiety outcomes in immersive language learning
+
+**Direct evidence:** 6 papers combine all central components.
+
+**Partial evidence:** 38 papers cover at least one component.
+
+**Missing component:** Few papers combine all components; weakest coverage is component 2.
+
+**Why it matters:** This combination is central to the intended study and weak coverage may provide a defensible research opportunity.
+
+**Opportunity level:** Medium
+
+**Suggested search keywords:** "immersive language learning" motivation anxiety

@@ -1,0 +1,19 @@
+# AI-supported collaborative virtual reality for English learning
+## Theoretical Foundation
+## Core Domain
+- english learning
+- efl
+- speaking anxiety
+- language learning
+## Technology
+- artificial intelligence
+- generative ai
+- chatgpt
+- virtual reality
+- collaborative virtual reality
+## Methodology
+- questionnaire design
+- experimental design
+- vr learning evaluation
+- motivation measurement
+- speaking anxiety measurement

@@ -1,0 +1,17 @@
+# Novelty Assessment
+
+**Direct Similar Studies:** 24
+
+**Partial Supporting Studies:** 39
+
+**Evidence Strength:** Strong
+
+**Novelty Level:** Medium
+
+**Research Risk:** Low-Medium
+
+**Interpretation:** Few studies may combine every central component directly, but many papers support individual components. This suggests novelty rather than an unsupported topic.
+
+**Recommendation:** Use the partial evidence to justify feasibility, then frame the missing full combination as the contribution.
+
+**Warning:** High novelty does not automatically mean a strong contribution. If evidence strength is limited, narrow the study or strengthen theoretical and methodological support.

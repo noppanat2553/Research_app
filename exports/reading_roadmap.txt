@@ -1,0 +1,25 @@
+# Recommended Reading Roadmap
+## Level 1: Closest Studies to Your Research
+Read these papers to build this layer of your research argument.
+- Presence and agency in real and virtual spaces: The promise of extended reality for language learning
+- A virtual reality-based collaborative argument mapping approach in the EFL classroom
+- Collaboration in a Virtual Reality Serious Escape Room in the Metaverse Improves Academic Performance and Learners’ Experiences
+- Imagining the Potential for Using Virtual Reality Technologies in Language Learning
+- Effects of artificial intelligence on English speaking anxiety and speaking performance: A case study
+- Virtual reality in problem‐based learning contexts: Effects on the problem‐solving performance, vocabulary acquisition and motivation of English language learners
+- Effects of technology-enhanced language learning on reducing EFL learners’ public speaking anxiety
+- Artificial intelligence-based language learning: illuminating the impact on speaking skills and self-regulation in Chinese EFL context
+## Level 4: Theory / Framework Papers
+Read these papers to build this layer of your research argument.
+- Technology acceptance model and multi-user virtual reality learning environments for Chinese language education
+- A pathway to learner autonomy: a self-determination theory perspective
+## Level 5: Foundational / Background References
+Read these papers to build this layer of your research argument.
+- Supporting dyadic learning of English for tourism purposes with scenery-based virtual reality
+- Use of Virtual Reality in Non-Native Language Learning and Teaching
+- A systematic review of SVVR in language education in terms of the ADDIE model
+- Concepts, affordances, and theoretical frameworks of mixed reality enhanced language learning
+- Understanding How AI Chatbots Influence EFL Learners’ Oral English Learning Motivation and Outcomes: Evidence From Chinese Learners
+- Implementation of an AI chatbot as an English conversation partner in EFL speaking classes
+- Transforming language education: A systematic review of AI-powered chatbots for English as a foreign language speaking practice
+- Elsa Speak App: Automatic Speech Recognition (ASR) for Supplementing English Pronunciation Skills
